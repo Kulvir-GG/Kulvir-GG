@@ -38,10 +38,11 @@ I'm Kulvir Singh,a sophomore at @TIET and aspiring Software Developer💻. Curre
 <a ><img src="https://www.vectorlogo.zone/logos/discordapp/discordapp-tile.svg" alt="cplusplus" width="35" height="40"/></a>
 ## Connect with me: 
   <p>
-  <a href="https://instagram.com/parmar_kulvir"><img src="https://github.com/aritraroy/social-icons/blob/master/instagram-icon.png?raw=true" width="60"></a>
-  <a href="https://www.linkedin.com/in/kulvir-singh-a88353201"><img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" width="60"></a>
-  <a href="https://twitter.com/ParmarKulvir"><img src="https://github.com/aritraroy/social-icons/blob/master/twitter-icon.png?raw=true" width="60"></a>
-  <a href="https://twitter.com/ParmarKulvir"><img src="https://github.com/aritraroy/social-icons/blob/master/twitter-icon.png?raw=true" width="60"></a>  
+<a href="mailto:kulvirs734@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail-new.png" width="60"></a> 
+<a href="https://www.linkedin.com/in/kulvir-singh-a88353201"><img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" width="60"></a>
+<a href="https://instagram.com/parmar_kulvir"><img src="https://github.com/aritraroy/social-icons/blob/master/instagram-icon.png?raw=true" width="60"></a>
+<a href="https://twitter.com/ParmarKulvir"><img src="https://github.com/aritraroy/social-icons/blob/master/twitter-icon.png?raw=true" width="60"></a>
+   
 </p>
 </h3>
 </div>
