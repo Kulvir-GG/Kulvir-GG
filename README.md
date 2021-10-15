@@ -1,6 +1,6 @@
 <h1 align="center">Hey Developers 👋, I'm Kulvir Singh</h1>
 <p align="center"><b>
-I'm Kulvir Singh,a sophomore at @TIET and aspiring Software Developer💻. Currently learning FullStack Web Development and also getting my hands dirty in Competitive Programming. I am looking forward to contribute to some ReactJS projects.
+I'm Kulvir Singh,a sophomore at TIET and aspiring Software Developer💻. Currently learning FullStack Web Development and also getting my hands dirty in Competitive Programming. I am looking forward to contribute to some ReactJS projects.
 </p>
 </b>
 
