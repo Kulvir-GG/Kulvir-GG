@@ -1,5 +1,8 @@
+
 <h1 align="center">Hey Developers 👋, I'm Kulvir Singh</h1>
 <p align="center"><b>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Kulvir-parmar&label=Profile%20views&color=129e00&style=plastic" alt="Kulvir-parmar" /> </p>
+
 I'm Kulvir Singh,a sophomore at TIET and aspiring Software Developer💻. Currently learning FullStack Web Development and also getting my hands dirty in Competitive Programming. I am looking forward to contribute to some ReactJS projects.
 </p>
 </b>
@@ -46,3 +49,9 @@ I'm Kulvir Singh,a sophomore at TIET and aspiring Software Developer💻. Curren
 </p>
 </h3>
 </div>
+
+##    
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kulvir-parmar&show_icons=true&locale=en&layout=compact" alt="Kulvir-parmar" /></p>
+
+<p><img src="https://github-readme-stats.vercel.app/api?username=Kulvir-parmar&show_icons=true&locale=en" alt="Kulvir-parmar" /></p>
+
