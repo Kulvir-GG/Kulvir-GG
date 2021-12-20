@@ -50,9 +50,10 @@ I'm Kulvir Singh,a sophomore at TIET and aspiring Software Developer💻. Curren
 </h3>
 </div>
 
-##    
+##
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kulvir-parmar&show_icons=true&locale=en&layout=compact" alt="Kulvir-parmar" /></p>
 
-##
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Kulvir-parmar&show_icons=true&locale=en" alt="Kulvir-parmar" /></p>
+   
+
 
