@@ -13,7 +13,7 @@
 I'm Kulvir Singh,a sophomore at TIET and aspiring Software Developer trying to expand my horizon in this industry.
 
 - 🔭 I’m currently working on **Backend Development**
-- ⚡️ Interests **Blockchain, ML**
+- ⚡️ Interests **ML**
 - 🙏🏻 Looking to collaborate on **OpenSource Projects**
 - 💬 Ask me about **anything ig!!  I'll google it for you**😜
 - ⚡️ Fun fact **I love to Watch Animeeee**.
