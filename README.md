@@ -6,17 +6,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kulvir-parmar&color=00cc00" alt="Kulvir-parmar" /> </p>
 
-<img align="right" title="Code" alt="Kulvir Singh" width="400" src="animation.gif" />
+<img align="right" title="Code" alt="Kulvir Singh" width="300" src="animation.gif" />
 
 ## About Me:
 
-I'm Kulvir Singh, a 3rd year student at TIET and aspiring Software Developer trying to expand my horizon in this industry.
+I'm Kulvir Singh, a 3rd year student at TIET and a Full Stack web developer, trying to lern new things daily. 
 
-- 🔭 I’m currently working on **Backend Development**
-- ⚡️ Interested in **BlockChain Technology**
-- 🙏🏻 Looking to collaborate on **OpenSource Projects**
-- 💬 Ask me about **anything ig!!  I'll google it for you**😜
-- ⚡️ Fun fact **I love to Watch Animeeee**.
+- 🔭 I’m currently working on **React Projects**.
+- ⚡️ Interested in **BlockChain Technology**.
+- 🙏🏻 Looking to collaborate on **OpenSource Projects**.
 <br>  
 
 <!-- Languages and Tools -->
