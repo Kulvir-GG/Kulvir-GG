@@ -13,7 +13,7 @@
 I'm Kulvir Singh, a 3rd year student at TIET and a Full Stack web developer, trying to lern new things daily. 
 
 - 🔭 I’m currently working on **React Projects**.
-- ⚡️ Interested in **BlockChain Technology**.
+- ⚡️ Interested in **Machine Learning**.
 - 🙏🏻 Looking to collaborate on **OpenSource Projects**.
 <br>  
 
