@@ -6,14 +6,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kulvir-parmar&color=00cc00" alt="Kulvir-parmar" /> </p>
 
-<img align="right" title="Code" alt="Kulvir Singh" width="300" src="animation.gif" />
+<img align="right" title="Code" alt="Kulvir Singh" width="280" src="animation.gif" />
 
 ## About Me:
 
-I'm Kulvir Singh, a final year student at TIET and a Full Stack web developer, trying to learn new things daily. 
+I'm Kulvir Singh, a final year student at TIET, trying to learn new things daily. 
 
-- 🔭 I’m currently learning more about **Generative AI**.
-- ⚡️ Interested in **Blockchain**.
+- 🔭 Interested in **Deep Learning algorithms** especially  **Generative AI**.
 - 🙏🏻 Looking to collaborate on **OpenSource Projects**.
 <br>  
 
@@ -27,8 +26,6 @@ I'm Kulvir Singh, a final year student at TIET and a Full Stack web developer, t
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
@@ -50,7 +47,7 @@ I'm Kulvir Singh, a final year student at TIET and a Full Stack web developer, t
     <a href="https://www.linkedin.com/in/kulvir-parmar">
     <img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" width="60"></a>
     <a href="https://instagram.com/parmar_kulvir"><img src="https://github.com/aritraroy/social-icons/blob/master/instagram-icon.png?raw=true" width="60"></a>
-    <a href="https://twitter.com/ParmarKulvir"><img src="https://github.com/aritraroy/social-icons/blob/master/twitter-icon.png?raw=true" width="60"></a>
+    <a href="https://twitter.com/kulvir0singh"><img src="https://github.com/aritraroy/social-icons/blob/master/twitter-icon.png?raw=true" width="60"></a>
   </p>
 
    
