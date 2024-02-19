@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kulvir-parmar&color=00cc00" alt="Kulvir-parmar" /> </p>
 
-<img align="right" title="Code" alt="Kulvir Singh" width="280" src="animation.gif" />
+<img align="right" title="Code" alt="Kulvir Singh" width="300" src="animation.gif" />
 
 ## About Me:
 
